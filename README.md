@@ -1,22 +1,5 @@
                                                                                                  #   AMAL-H
 
-![My card name](https://cardivo.vercel.app/api?name=AMAL-H%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://avatars.githubusercontent.com/u/113657908?s=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=sparky.drip&github=A-S-W-I-N-S-P-A-R-K-Y&)
-</p>
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=A-S-W-I-N-S-P-A-R-K-Y&label=Visitors%20count&color=10d9c3&style=plastic" alt="A-S-W-I-N-S-P-A-R-K-Y" /> </p>
-</br>
-
-<div align="center"> 
-  <a href="mailto:sparkymon777@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://wa.me/917012984396" target="_blank">
-    <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://instagram.com/sparky.drip" target="_blank">
-     <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>                                                                                                 
 
 #  About Me:
 🌐 Tech Stack
