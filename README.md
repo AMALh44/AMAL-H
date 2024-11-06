@@ -1,7 +1,7 @@
-###   AMAL-H
+#   AMAL-H
 
 
-#  About Me:
+###  About Me:
 🌐 Tech Stack
 Statistic and Data Science | Proficient in Matplotlib, Python, Numpy, Pandas, and Machine Learning.
 
