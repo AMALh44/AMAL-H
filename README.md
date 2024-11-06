@@ -1,8 +1,20 @@
-# AMAL-H
+#                                                                                                                      AMAL-H
 
 #  About Me:
-Tech Stack: "🌐 Statistic and Data Science | Matplotlib, Python, Numpy, Pandas, and Machine Learning."<br>Projects: "🔧 Open-source contributor | Check out my latest projects below!"<br>Interests: "🚀 Passionate about AI and machine learning."<br>Learning Goals: "📚 Currently learning Deep Learning and GraphQL."<br>Fun Fact: "🎨 Coding by day, painting by night!"
+🌐 Tech Stack
+Statistic and Data Science | Proficient in Matplotlib, Python, Numpy, Pandas, and Machine Learning.
 
+🔧 Projects
+Open-source contributor | Explore my latest projects below!
+
+🚀 Interests
+Passionate about AI and machine learning.
+
+📚 Learning Goals
+Currently diving into Deep Learning and GraphQL.
+
+🎨 Fun Fact
+Coding by day, painting by night!
 
 <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300">
 <br><br>
