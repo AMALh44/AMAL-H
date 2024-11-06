@@ -1,5 +1,4 @@
-                                                                                                 #   AMAL-H
-
+#   AMAL-H
 
 #  About Me:
 🌐 Tech Stack
